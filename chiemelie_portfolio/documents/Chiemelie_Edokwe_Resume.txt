@@ -1,0 +1,32 @@
+
+Chiemelie Edokwe
+--------------------------
+Email: chiemelie@example.com | Phone: (123) 456-7890
+Location: Ontario, Canada | Portfolio: chiemelie-portfolio
+
+Objective:
+Motivated and creative Web Design student at Conestoga College seeking opportunities to apply technical and design skills in real-world projects.
+
+Education:
+- Conestoga College – Web Design and Development (PROG1836) | 2025
+
+Skills:
+- HTML, CSS, JavaScript
+- Responsive Design
+- UI/UX Principles
+- Adobe XD, Figma
+- Team Collaboration, Communication
+
+Projects:
+- Portfolio Website (This Project)
+  A responsive, multi-page portfolio site showcasing my skills, resume, and projects using clean HTML/CSS practices.
+
+Experience:
+- Student Project Work, Conestoga College | Jan–Apr 2025
+  Built accessible and responsive websites, practiced HTML/CSS layout structure, and followed modern web standards.
+
+Certifications:
+- Responsive Web Design – FreeCodeCamp (2024)
+
+References:
+Available on request.
